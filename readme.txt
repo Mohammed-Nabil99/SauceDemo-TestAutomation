@@ -1,4 +1,4 @@
-to execute this project you have to follow these steps
+To execute this project you have to follow these steps
 
 1- Download this project to known path
 2- open IntelliJ
