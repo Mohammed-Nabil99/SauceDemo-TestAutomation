@@ -14,10 +14,10 @@ This Practice contains automated test scripts for the SauceDemo website. The tes
 Verify that a user can complete the checkout process on the SauceDemo website.
 - Steps:
   1. Login with valid credentials.
-  2. click on Sortby button.
+  2. Click on Sortby button.
   3. Choose Sortby price (low to high).
   4. From the first product (with least price) click add to cart button.
-  5. click on shopping cart logo.
+  5. Click on shopping cart logo.
   6. Proceed to the checkout page.
   7. Fill in the shipping details.
   8. Click on the Finish button to place order.
